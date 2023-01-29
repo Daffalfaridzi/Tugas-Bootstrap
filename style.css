@@ -1,0 +1,21 @@
+body{
+    background: white;
+}
+.navbar-brand{
+    font-size: 24px;
+    font-weight: 700;
+    color: black;
+}
+.col img{
+    margin-top: 60px;
+}
+.build{
+    margin-top: 60px;
+    font-size: 2px ;
+    text-align: left;
+}
+
+.build h1 {
+    font-size: 60px;
+    text-align: left;
+}
